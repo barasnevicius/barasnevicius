@@ -1,4 +1,4 @@
-- 👋 Olá, sou @barasnevicius e este seria meu github pessoal para cenários de aprendizados.
+- 👋 Aaaoowwwww, bem vindo ao meu GitHub pessoal para cenários de aprendizado!
 - 👀 Possuo interesse em automatizações, fluxos CI/CD, Design e UI/UX. 
 - 🌱 Neste momento de carreira estou focado em gestão de pessoas na área de engenharia de dados, mas jamais quero perder este veia de programador.
 - 💞️ Estou em busca de contínuo aprendizado, principalmente em Python, GPT-3 e github copilot / codex.
