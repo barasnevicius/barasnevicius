@@ -1,4 +1,4 @@
-### Aaaoowwww, bem vindo(a) ao meu GitHub pessoal para cenários de aprendizado! 
+### Aaaoowwww, bem vindo(a) ao meu GitHub pessoal! 
 
 - 🌱 Neste momento de carreira estou focado em gestão de pessoas na área de engenharia de dados, mas jamais quero perder o interesse técnico.
 - ❤️ Curto demais automatizações, fluxos CI/CD, Design e UI/UX. Muito interesse em Python, GPT-4, GitHub Copilot X e AWS Code Whisperer.
