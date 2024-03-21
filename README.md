@@ -1,7 +1,7 @@
 ### Aaaoowwww, bem vindo(a) ao meu GitHub pessoal! 
 
-- 🌱 Neste momento de carreira estou focado em gestão de pessoas na área de engenharia de dados, mas jamais quero perder o interesse técnico.
-- ❤️ Curto demais automatizações, fluxos CI/CD, Design e UI/UX. Muito interesse em Python, GPT-4, GitHub Copilot X e AWS Code Whisperer.
+- 🌱 Neste momento de carreira estou focado em gestão de pessoas na área de engenharia de dados, governança de dados e MLOps mas jamais quero perder o interesse técnico.
+- ❤️ Curto demais automatizações, fluxos CI/CD, Design e UI/UX. Muito interesse em Python, GPT-4, Node.js, GitHub, GCP e AWS.
 - 📫 Linkedin: https://www.linkedin.com/in/felipe-barasnevicius-vides/ | Site Pessoal: https://www.felipevides.com.br
 
 <div align="center">
